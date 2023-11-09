@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hellokitty-staging
+  labels:
+    environment-id: env_bf9ce5c0-f0b0-433a-93fa-2ab6ba1def23
+    project-id: project_5ac06bde-7b91-44e6-9166-9a1ae1d18ed7
+    project-name: HelloKitty
+    environment-name: staging
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627

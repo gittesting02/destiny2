@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hellokitty-dev
+  labels:
+    environment-id: env_58af17a2-968d-43ab-ba9e-44860f47dfdc
+    project-id: project_5ac06bde-7b91-44e6-9166-9a1ae1d18ed7
+    project-name: HelloKitty
+    environment-name: dev
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
